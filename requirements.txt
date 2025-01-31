@@ -1,0 +1,9 @@
+flask
+pdfplumber
+docx
+csv
+werkzeug
+google
+google-generativeai
+fpdf
+PyPDF2
